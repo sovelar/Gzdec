@@ -64,7 +64,7 @@
 
 #include <gst/gst.h>
 
-#include "gstgzdec.h"
+#include "gstplugin.h"
 
 
 
